@@ -1,3 +1,5 @@
+#### ADDING COMMENTS FOR INFO 523 HW2
+
 ### 01-Reshape.R
 # install.packages("reshape2")
 # library(reshape2)
